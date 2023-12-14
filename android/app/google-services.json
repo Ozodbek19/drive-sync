@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658501140287",
+    "project_id": "carrental-dadd7",
+    "storage_bucket": "carrental-dadd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658501140287:android:645fab95ddc0e3bce75d8a",
+        "android_client_info": {
+          "package_name": "com.sobgog.car_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh32UmCr6lFSMeFG1tQqW_QcpxA3tkjX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
